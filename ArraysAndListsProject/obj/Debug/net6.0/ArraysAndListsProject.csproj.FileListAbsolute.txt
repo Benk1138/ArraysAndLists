@@ -1,0 +1,5 @@
+/Users/benkunkel/Projects/ArraysAndListsProject/ArraysAndListsProject/obj/Debug/net6.0/ArraysAndListsProject.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/ArraysAndListsProject/ArraysAndListsProject/obj/Debug/net6.0/ArraysAndListsProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/ArraysAndListsProject/ArraysAndListsProject/obj/Debug/net6.0/ArraysAndListsProject.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/ArraysAndListsProject/ArraysAndListsProject/obj/Debug/net6.0/ArraysAndListsProject.AssemblyInfo.cs
+/Users/benkunkel/Projects/ArraysAndListsProject/ArraysAndListsProject/obj/Debug/net6.0/ArraysAndListsProject.csproj.CoreCompileInputs.cache
